@@ -10,10 +10,8 @@ Secondly, there are a total of 18,632 images of apple leaf disease data set, inc
 Finally, MobileNetV1, MobileNetV2 and ResNet50 network models were used for the dataset, and their performance on this dataset was analyzed and compared. Finally, ResNet50 model achieved the highest mean F1-score of 0.9006 among the three models.
 
 
-#模型创建与训练部分的代码
-https://www.kaggle.com/code/jdd2022/2022jdd-research-on-apple-leaf-disease/notebook?scriptVersionId=96421486
-
+#模型创建与训练部分的代码（最终显示的版本为ResNet50模型版本）
 https://www.kaggle.com/code/jdd2022/2022jdd-research-on-apple-leaf-disease/notebook
 
-#画图与预测部分的代码
+#画图与预测部分的代码（最终显示的版本为ResNet50模型版本）
 https://www.kaggle.com/jdd2022/notebook-plot2/edit
