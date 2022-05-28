@@ -14,4 +14,4 @@ Finally, MobileNetV1, MobileNetV2 and ResNet50 network models were used for the 
 https://www.kaggle.com/code/jdd2022/2022jdd-research-on-apple-leaf-disease/notebook
 
 #画图与预测部分的代码（最终显示的版本为ResNet50模型版本）
-https://www.kaggle.com/jdd2022/notebook-plot2/edit
+https://www.kaggle.com/jdd2022/notebook-plot2
